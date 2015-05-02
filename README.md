@@ -1,0 +1,3 @@
+# compound
+
+`$ ruby main.rb`
